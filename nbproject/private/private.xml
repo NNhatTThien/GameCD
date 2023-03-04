@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="3">
+        <file>
+            <url>src/java/dao/iml/AccountDAO.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>51</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/java/controller/web/LoginController.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>110</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/java/filter/DispatcherFilter.java</url>
+            <bookmark id="3">
+                <name/>
+                <line>132</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/web/views/web/check_order.jsp</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/controller/web/UserChangeController.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/controller/web/OrderGameController.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/utils/MyUtils.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/model/entity/OrderEntity.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/web/views/web/page-not-found.jsp</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/dao/iml/AbstractDAO.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/service/iml/OrderService.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/service/iml/AccountService.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/service/iml/UserService.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/service/IOrderDetailService.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/model/dto/CartDTO.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/model/dto/GameModel.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/dao/IUserDAO.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/model/dto/OrderModel.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/model/entity/OrderDetailEntity.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/service/iml/CategoryService.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/service/IOrderService.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/dao/IOrderDAO.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/dao/iml/GameDAO.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/web/asset/css/invoice.css</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/web/views/web/welcome.jsp</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/web/views/web/order_game.jsp</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/controller/web/RegistrationController.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/dao/iml/CategoryGameDAO.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/model/dto/UserCheckErrorUpdateDTO.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/web/views/web/login.jsp</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/service/iml/CheckFormService.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/web/views/web/registration.jsp</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/service/ICategoryGameService.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/model/dto/UserModel.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/dao/IOrderDetailDAO.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/dao/iml/OrderDetailDAO.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/service/iml/AbstractServiceModel.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/controller/web/LoginController.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/service/IUserService.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/controller/web/CartGameController.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/service/iml/GameService.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/web/views/web/user_profile.jsp</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/dao/iml/CategoryDAO.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/mapper/Mapper.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/dao/iml/UserDAO.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/dao/iml/OrderDAO.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/dao/IGameDAO.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/dao/iml/AccountDAO.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/model/dto/AccountModel.java</file>
+            <file>file:/D:/2023-Semester_4/PRJ301/testProject/GameCD/src/java/service/iml/CategoryGameService.java</file>
+        </group>
+    </open-files>
+</project-private>
